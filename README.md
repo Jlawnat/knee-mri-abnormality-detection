@@ -1,5 +1,9 @@
 # Knee MRI Abnormality Detection
-
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.x-orange)
+![Medical Imaging](https://img.shields.io/badge/Medical%20Imaging-MRI-green)
+![Self-Supervised Learning](https://img.shields.io/badge/Learning-Self--Supervised-purple)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 Self-supervised learning for multi-label knee MRI abnormality detection using **2.5D DICOM inputs**, a **ResNet-18 encoder**, and supervised fine-tuning for **12 clinical targets**.
 
 ## Overview
