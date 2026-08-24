@@ -216,3 +216,31 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Competition / medical imaging data
+data/
+*.dcm
+
+# Model checkpoints
+*.pt
+*.pth
+*.ckpt
+
+# Large processed datasets
+*.parquet
+
+# Kaggle outputs
+outputs/
+checkpoints/
+submission.csv
+
+# Local experiment artifacts
+*.log
+training_history.csv
+validation_predictions.csv
+validation_metrics.csv
+
+# Jupyter / Python cache
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
