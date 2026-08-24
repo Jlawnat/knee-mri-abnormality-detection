@@ -6,6 +6,10 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 Self-supervised learning for multi-label knee MRI abnormality detection using **2.5D DICOM inputs**, a **ResNet-18 encoder**, and supervised fine-tuning for **12 clinical targets**.
 
+## Pipeline
+
+![Project pipeline](figures/pipeline.png)
+
 ## Overview
 
 The main challenge in this project is severe **label scarcity**.
